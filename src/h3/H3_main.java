@@ -15,10 +15,6 @@ public class H3_main {
         c = (i > 200);
         d = (j > 100);
 
-        System.out.println(b);
-        System.out.println(c);
-        System.out.println(d);
-
         if (b == true) {
             if (c == false) {
                 if (d == false) {
